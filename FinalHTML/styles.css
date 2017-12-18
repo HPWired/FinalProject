@@ -1,0 +1,32 @@
+h1{padding: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    color: #ffe991;
+    background-color:coral;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+h2{padding: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;}
+body{background-color: #a4c699;
+    background: Image/MR_Logo.png;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-image: initial;
+    margin: 40px;
+    }
+img {
+	max-width:100%;
+	height:auto;
+    padding-left: center;
+    padding-right: center;
+}
+/*.LogoBackground {
+  background-image: Image/MR_Logo.png;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+
+}*/
